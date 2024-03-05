@@ -1,13 +1,13 @@
 [
 {
-  "name": "mijn-vocabularium-voc",
+  "name": "training-demo-voc",
   "type": "voc",
-  "eap": "MijnVocabularium-VOC.eap",
-  "diagram": "OSLO-MijnVocabularium",
+  "eap": "TrainingDemo-VOC.eap",
+  "diagram": "OSLO-TrainingDemo",
   "template": "mijn-vocabularium-voc.j2",
-  "title": "Mijn Vocabularium",
+  "title": "Training Demo",
   "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
-  "publication-date": "2020-01-31",
+  "publication-date": "2024-03-05",
   "license": "https://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/v1.0",
   "contributors-file": "stakeholders.csv",
   "contributors-column": "MijnKolom",
